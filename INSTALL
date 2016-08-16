@@ -1,0 +1,9 @@
+Building LimnCoin
+
+See doc/readme-qt.rst for instructions on building LimnCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LimnCoin.
+
+See doc/build-*.txt for instructions on building LimnCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LimnCoin.
